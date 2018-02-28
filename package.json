@@ -24,6 +24,7 @@
     "nuxt": "^1.0.0",
     "scss": "^0.2.4",
     "vue-awesome-swiper": "^3.1.2",
+    "vue-seamless-scroll": "^1.1.7",
     "vue-style-loader": "^3.1.1",
     "whatwg-fetch": "^2.0.3"
   },

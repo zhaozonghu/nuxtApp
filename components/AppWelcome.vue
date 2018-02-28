@@ -1,6 +1,6 @@
 <template>
     <div class="welcome" :class="{hide:hide}">
-        <img src="../assets/images/loadicon.png" alt="">
+        <img src="~assets/images/loadicon.png" alt="">
     </div>
 </template>
 <script>

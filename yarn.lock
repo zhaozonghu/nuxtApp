@@ -1442,6 +1442,10 @@ compression@^1.7.1:
     safe-buffer "5.1.1"
     vary "~1.1.2"
 
+comutils@^1.1.9:
+  version "1.1.17"
+  resolved "http://registry.npm.taobao.org/comutils/download/comutils-1.1.17.tgz#2341651384b688d2ca02f9e6a262205406008c37"
+
 concat-map@0.0.1:
   version "0.0.1"
   resolved "http://registry.npm.taobao.org/concat-map/download/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
@@ -6125,6 +6129,12 @@ vue-meta@^1.4.2:
 vue-router@^3.0.1:
   version "3.0.1"
   resolved "http://registry.npm.taobao.org/vue-router/download/vue-router-3.0.1.tgz#d9b05ad9c7420ba0f626d6500d693e60092cc1e9"
+
+vue-seamless-scroll@^1.1.7:
+  version "1.1.7"
+  resolved "http://registry.npm.taobao.org/vue-seamless-scroll/download/vue-seamless-scroll-1.1.7.tgz#e9b3b3487d3a5a183c7e82e9043854c2c852337e"
+  dependencies:
+    comutils "^1.1.9"
 
 vue-server-renderer@^2.5.13:
   version "2.5.13"

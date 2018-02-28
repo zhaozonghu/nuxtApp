@@ -32,11 +32,42 @@
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
-    background: #1b223c;
+    background: #292c3c;
   }
   body{
-  max-width: 10rem;
+    max-width: 10rem;
     margin: 0 auto;
+    padding-bottom: 2rem;
+  }
+
+div,
+  dl,
+  dt,
+  dd,
+  dl,
+  ul,
+  ol,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  pre,
+  code,
+  form,
+  fieldset,
+  legend,
+  input,
+  textarea,
+  p,
+  blockquote,
+  th,
+  td {
+    margin: 0;
+    padding: 0;
+    list-style: none;
   }
   
   *,
