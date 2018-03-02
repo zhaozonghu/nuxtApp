@@ -89,6 +89,8 @@ export default {
   left: 0;
   right: 0;
   bottom: 0;
+      max-width: 10rem;
+    margin: 0 auto;
   padding: 0.4rem 0.48rem 1.333333rem;
   background: url("../assets/images/login-bg.png") no-repeat center top;
   background-size: 2.16rem 2.746667rem;
